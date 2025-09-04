@@ -19,8 +19,9 @@ This project lets you chat with Gemini directly from your console — simple, fa
 
 ## 🏗️ Installation & Setup
 
-### 1. Clone the repo
 ```bash
+1. Clone the repo
+
 git clone [https://github.com/ShridhiGupta/ChatWithGemini.git]
 cd ChatWithGemini
 
