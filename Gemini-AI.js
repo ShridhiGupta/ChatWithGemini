@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import readlineSync from 'readline-sync';
 
-const ai = new GoogleGenAI({apiKey: "AIzaSyA8PpjxGPlAAp6sr_TDSnYUfFRnOGQViRM"});
+const ai = new GoogleGenAI({apiKey: "your_api_key_here"});
 
 const chat = ai.chats.create({
     model: "gemini-2.5-flash",
