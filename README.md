@@ -58,5 +58,3 @@ For major changes, please open an issue first to discuss what you’d like to im
 This project is licensed under the MIT License.
 
 ⭐ If you like this project, give it a star on GitHub!
-
----
