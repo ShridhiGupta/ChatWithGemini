@@ -21,8 +21,8 @@ This project lets you chat with Gemini directly from your console — simple, fa
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/gemini-chat-cli.git
-cd gemini-chat-cli
+git clone [https://github.com/ShridhiGupta/ChatWithGemini.git]
+cd ChatWithGemini
 
 2. Install dependencies
 npm install
