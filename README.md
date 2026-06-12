@@ -167,4 +167,10 @@ If you find this project useful:
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 Built using Node.js and Google Gemini AI.
