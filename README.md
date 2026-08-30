@@ -151,7 +151,6 @@ For major changes, please open an issue first to discuss your proposed improveme
 
 ---
 
-
 ## Support
 
 If you find this project useful:
