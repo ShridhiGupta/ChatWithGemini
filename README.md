@@ -151,7 +151,7 @@ For major changes, please open an issue first to discuss your proposed improveme
 
 ---
 
-## License
+#
 
 ## Support
 
