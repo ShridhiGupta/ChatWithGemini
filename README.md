@@ -153,8 +153,6 @@ For major changes, please open an issue first to discuss your proposed improveme
 
 ## License
 
-This p
-
 ## Support
 
 If you find this project useful:
