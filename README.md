@@ -153,9 +153,7 @@ For major changes, please open an issue first to discuss your proposed improveme
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
----
+This p
 
 ## Support
 
