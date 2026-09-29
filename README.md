@@ -158,10 +158,3 @@ If you find this project useful:
 * Star the repository
 * Share it with others
 * Contribute to improve it
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
